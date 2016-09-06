@@ -1,0 +1,14 @@
+{
+  "name": "fcc-req-header-parser-ms",
+  "version": "0.0.0",
+  "description": "FreeCodeCamp request header parser microservice.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirix-old/fcc-req-header-parser-ms.git"
+  },
+  "author": "Jack P.",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
